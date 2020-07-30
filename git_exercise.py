@@ -6,3 +6,9 @@ def function_two():
 
 def function_three():
     print("Function Three from working_branch")
+    
+def function_four():
+    print("Function Four from func_4_branch")
+
+def function_five():
+	print("Function 5")
