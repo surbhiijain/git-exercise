@@ -12,3 +12,6 @@ def function_four():
 
 def function_five():
 	print("Function 5")
+
+def function_six():
+	print("Function Six")
